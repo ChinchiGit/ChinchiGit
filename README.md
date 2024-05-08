@@ -1,5 +1,8 @@
 # ¡Hola! Soy Carlos Chinchilla 👋
 
+[![CodeWars Badge](https://www.codewars.com/users/ChinchiGit/badges/large)](https://www.codewars.com/users/ChinchiGit)
+
+
 ## Acerca de mí ℹ️
 En lo profesional, soy desarrollador FullStack enfocado en tecnologías MERN (MongoDB, Express.js, React.js, Node.js) y PERN (PostgreSQL, Express.js, React.js, Node.js). Me gustan los retos y me gusta trabajar duro para mejorar mis habilidades como profesional del desarrollo web. 💻🚀
 
