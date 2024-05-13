@@ -7,6 +7,31 @@
 ## Acerca de mí ℹ️
 En lo profesional, soy desarrollador FullStack enfocado en tecnologías MERN (MongoDB, Express.js, React.js, Node.js) y PERN (PostgreSQL, Express.js, React.js, Node.js). Me gustan los retos y me gusta trabajar duro para mejorar mis habilidades como profesional del desarrollo web. 💻🚀
 
+<div style="display:flex;flex-direction:row; justify-content:space-evenly;margin-top: 20px; margin-bottom: 25px;">
+  <div class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;text-align:center">
+      <a href="https://api.badgr.io/public/assertions/6hVflqX2Svm2PtS88lzMfw?identity__email=carloschinchillamoreno%40gmail.com">
+          <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/6hVflqX2Svm2PtS88lzMfw/image">
+      </a>
+      <p  class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: center; color: #05012c; ">Frontend development</p>
+  </div>
+
+  <div class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;text-align:center">
+    <a href="https://api.badgr.io/public/assertions/CthHDwJXQF62qHufpqop1Q">
+      <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/CthHDwJXQF62qHufpqop1Q/image">
+    </a>
+    <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: center; color: #05012c;">React</p>
+  </div>
+
+  <div class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
+    <a href="https://api.badgr.io/public/assertions/4RsZXkfoT_2lStCgeWNvMw?identity__email=carloschinchillamoreno%40gmail.com">
+      <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/4RsZXkfoT_2lStCgeWNvMw/image">
+    </a>
+    <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: center; color: #05012c;">JavaScript</p>
+  </div>
+</div>
+
+
+
 En lo personal, soy un gran aficionado a las motos. Si eres de los mios y estas en Madrid y alrededores, contáctame y planeamos una salida para hacer Km. y hablar de nuestros proyectos.
 
 ## Habilidades 🛠️
